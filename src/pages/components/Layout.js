@@ -1,5 +1,5 @@
 import { Container } from 'react-bootstrap';
-import 'bootstrap/dist/css/bootstrap.min.css';
+import "@/styles/bootstrap.min.css";
 import MainNav from './MainNav';
 
 const Layout = (props) => {
