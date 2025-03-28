@@ -1,7 +1,7 @@
 import React from 'react';
 import { Card, Button } from 'react-bootstrap';
 import Link from 'next/link';
-import Image from 'next/image';
+
 
 const ArtworkCard = ({ objectID }) => {
   const [artworkData, setArtworkData] = React.useState(null);
